@@ -33,7 +33,7 @@ Demo - [Link](https://quantboard.streamlit.app/)
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/TechTronixx/crypto-dashboard.git
+git clone https://github.com/TechTronixx/QuantBoard.git
 cd crypto-dashboard
 ```
 
@@ -43,7 +43,7 @@ cd crypto-dashboard
 pip install -r requirements.txt
 ```
 
-3. Set up API keys (optional but recommended):
+3. Set up API keys :
 
 ```bash
 python setup.py
@@ -53,6 +53,10 @@ python setup.py
 
 ```bash
 streamlit run app.py
+```
+or 
+```bash
+py -m streamlit run app.py
 ```
 
 ## Tech Used
