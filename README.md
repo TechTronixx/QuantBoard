@@ -25,8 +25,8 @@ The whole idea was simple: save time, get better insights, and have everything I
 
 ## Demo
 
-Demo - [Link]()
-_Will add later from Replit_
+Demo - [Link](https://quantboard.streamlit.app/)
+
 
 ## Install
 
