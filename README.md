@@ -114,5 +114,5 @@ The application includes a built-in debug mode to help diagnose API issues and c
 
 Built with modern web technologies and financial data APIs. Special thanks to CoinGecko and FRED for providing comprehensive market data and economic indicators.
 
-https://docs.coingecko.com/reference/introduction
-https://fred.stlouisfed.org/docs/api/fred/
+- https://docs.coingecko.com/reference/introduction
+- https://fred.stlouisfed.org/docs/api/fred/
