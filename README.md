@@ -73,6 +73,9 @@ py -m streamlit run app.py
 - **Backend**: Python 3.8+, Requests, AsyncIO
 - **Deployment**: Streamlit Cloud ready
 
+## Diagram Overview
+<img width="6304" height="1256" alt="diagram" src="https://github.com/user-attachments/assets/bb311403-520c-4fb7-9b4f-1525797cb2f0" />
+
 ## Troubleshooting
 
 ### Debug Mode
