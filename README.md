@@ -23,6 +23,9 @@ The whole idea was simple: save time, get better insights, and have everything I
 - **Commodity Data**: COT (Commitment of Traders) data integration for market sentiment
 - **Quantitative Metrics**: GARCH volatility modeling, Sharpe ratios, and advanced risk calculations
 
+## Demo Preview 
+[Check out the demo video](https://raw.githubusercontent.com/TechTronixx/QuantBoard/main/Quantboard_demo.mp4)
+
 ## Demo
 
 Demo - [Link](https://quantboard.streamlit.app/)
